@@ -1,0 +1,37 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Dependency directories
+jspm_packages/
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Firebase config
+firebase-config.json
+
+# Cache files
+.cache/
+
+# OS-specific files
+*.swp
+*~
+*.bak
+
+# Parcel cache
+.cache/
